@@ -148,7 +148,7 @@ def main():
                     binary_string = '1' + '0' * (N-2) + '1'
                     final_binary_string = '1' * N
 
-                    # Calling fonction that generate all binaries, convert them and find divisor
+                    # Calling function that generate all binaries, convert them and find divisor
                     generate_binaries_convert_div(binary_string, final_binary_string, case, J, o_f)
 
 
