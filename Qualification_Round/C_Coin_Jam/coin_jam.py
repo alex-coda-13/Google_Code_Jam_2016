@@ -2,12 +2,13 @@
 #   @Author: Alexandre Codaccioni
 #   @Problem: Google Code Jam 2016 Qualification Round -  Problem C
 #   @Python: 3.7.4
+#   @Date: 23/01/2020
 ##########
 
 # Generate all binaries, use convert and prime functions
 def generate_binaries_convert_div(binary_string, final_binary_string, case, J, o_f):
 
-    #### Convert into base and fond divisor ####
+    #### Convert into base and found divisors ####
     
     o_f.write('Case #' + str(case) + ':\n')
     # Number of jam coins found 
