@@ -34,7 +34,7 @@ def generate_binaries_convert_div(binary_string, final_binary_string, case, J, o
 
             # We create object containing non trivial divisor nt_div
             # Remain -1 if it is prime
-            # To pass to reference
+            # Passed by reference
             nt_div = [-1]
 
             # If the number is prime, it is not a jam coin, try other one
