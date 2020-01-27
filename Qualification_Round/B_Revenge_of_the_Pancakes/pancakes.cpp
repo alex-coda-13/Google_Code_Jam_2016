@@ -1,8 +1,8 @@
 /////////////
 //  @Author: Alexandre Codaccioni
 //  @Problem: Google Code Jam 2016 Qualification Round -  Problem B
-//  @Python: 3.7.4
-//  @Date: 23/01/2020
+//  @G++: 4.2.1
+//  @Date: 27/01/2020
 ////////////
 
 
