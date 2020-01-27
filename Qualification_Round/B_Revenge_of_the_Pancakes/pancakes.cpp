@@ -1,3 +1,11 @@
+/////////////
+//  @Author: Alexandre Codaccioni
+//  @Problem: Google Code Jam 2016 Qualification Round -  Problem B
+//  @Python: 3.7.4
+//  @Date: 23/01/2020
+////////////
+
+
 #include <iostream>
 #include <fstream>
 
