@@ -1,6 +1,6 @@
 /////////////
 //  @Author: Alexandre Codaccioni
-//  @Problem: Google Code Jam 2016 Qualification Round -  Problem B
+//  @Problem: Google Code Jam 2016 Qualification Round - Problem B
 //  @G++: 4.2.1
 //  @Date: 27/01/2020
 ////////////

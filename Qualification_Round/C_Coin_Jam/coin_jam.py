@@ -1,6 +1,6 @@
 ###########
 #   @Author: Alexandre Codaccioni
-#   @Problem: Google Code Jam 2016 Qualification Round -  Problem C
+#   @Problem: Google Code Jam 2016 Qualification Round - Problem C
 #   @Python: 3.7.4
 #   @Date: 23/01/2020
 ##########
